@@ -1,6 +1,6 @@
 # G-FairAttack
 
-The code is associated with *Adversarial Attacks on Fairness of Graph Neural Networks*.
+The code is associated with *Adversarial Attacks on Fairness of Graph Neural Networks* (ICLR 2024).
 
 ## Requirements
 
